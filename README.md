@@ -6,10 +6,10 @@ To run this project on your local machine, follow these steps:
 
 Clone the project repository:
 
-git clone https://github.com/MadheshKumarVJ/webhookify.git
+git clone https://github.com:Jayachitraa/WEBHOOK.git
 Move to the project directory:
 
-cd webhookify/webby/
+cd WEBHOOK/webhook/
 Install the requirements:
 
 pip install -r requirements.txt
