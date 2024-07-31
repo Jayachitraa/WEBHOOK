@@ -5,22 +5,21 @@ Setup
 To run this project on your local machine, follow these steps:
 
 Clone the project repository:
-
 git clone https://github.com:Jayachitraa/WEBHOOK.git
+
 Move to the project directory:
-
 cd WEBHOOK/webhook/
+
 Install the requirements:
-
 pip install -r requirements.txt
-Create a superuser:
 
+Create a superuser:
 ./manage.py createsuperuser
+
 Provide the required details.
 
 Run migrations:
-
 ./manage.py migrate
-Run the server:
 
+Run the server:
 ./manage.py runserver 8000
