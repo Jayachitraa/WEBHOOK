@@ -1,5 +1,5 @@
 # WEBHOOK
-Webhookify is an app that consists of an admin site where you can create an account and register multiple destinations for the accounts. Every edit of the account will get notified to the destination URL.
+Webhook is an app that consists of an admin site where you can create an account and register multiple destinations for the accounts. Every edit of the account will get notified to the destination URL.
 
 Setup
 To run this project on your local machine, follow these steps:
